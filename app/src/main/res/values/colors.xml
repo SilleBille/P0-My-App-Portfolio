@@ -3,8 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="colorButtonGreenWhite">#c8e6c9</color>
     <color name="colorButtonGreen">#4caf50</color>
     <color name="colorUdacity">#F08C35</color>
-    <color name="colorUdacityWhite">#fff9c4</color>
+    <color name="colorWhite">#fff</color>
 </resources>
